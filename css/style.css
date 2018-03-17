@@ -99,7 +99,9 @@ a{
     width: 100%;
     
 }
-
+#projets li{
+	list-style-type: circle;
+}
 
 /* Tooltip container */
 .tooltip {
